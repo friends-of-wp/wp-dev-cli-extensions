@@ -3,3 +3,7 @@ extensions:
   wp-dev-cli-ext-security:
     name: WordPress version security checker
     description: "This command returns security information about the given WordPress version. If it is unsecure it will return the closest secure version."
+
+  wp-dev-cli-ext-statistics:
+    name: WordPress statistics
+    description: "Some statistics about the WordPress ecosystem. Includes statistics about PHP, MySQL and WordPress versions." 
